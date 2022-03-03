@@ -26,11 +26,11 @@
   </tr>
 
   <tr>
-    <td>1</td><td>Урок 1</td>
+    <td>1</td><td>Урок 1</td> 
   </tr>
 
   <tr>
-    <td>2</td><td>Входное тестирование</td>
+    <td>2</td><td>Входное тестирование</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
@@ -42,43 +42,43 @@
   </tr>
   
   <tr>
-    <td>5</td><td>Введение в Python</td>
+    <td>5</td><td>Введение в Python</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>6</td><td>Типы данных Python</td>
+    <td>6</td><td>Типы данных Python</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>7</td><td>Переменные и условные</td>
+    <td>7</td><td>Переменные и условные</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>8</td><td>Циклы</td>
+    <td>8</td><td>Циклы</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>9</td><td>Строки и их методы</td>
+    <td>9</td><td>Строки и их методы</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>10</td><td>Коллекции и их методы. Урок 1.</td>
+    <td>10</td><td>Коллекции и их методы. Урок 1.</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>11</td><td>Коллекции и их методы. Урок 2.</td>
+    <td>11</td><td>Коллекции и их методы. Урок 2.</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>12</td><td>Функции</td>
+    <td>12</td><td>Функции</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>13</td><td>Работа с файлами</td>
+    <td>13</td><td>Работа с файлами</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>14</td><td>Основы ООП. Урок 1.</td>
+    <td>14</td><td>Основы ООП. Урок 1.</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
@@ -86,35 +86,31 @@
   </tr>
 
   <tr>
-    <td>16</td><td>Основы ООП. Урок 2.</td>
+    <td>16</td><td>Основы ООП. Урок 2.</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>17</td><td>Промежуточная аттестация</td>
+    <td>17</td><td>Промежуточная аттестация</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>18</td><td>Написание модулей</td>
+    <td>18</td><td>Написание модулей</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>19</td><td>Генераторы и итераторы. Урок 1.</td>
+    <td>19</td><td>Генераторы и итераторы. Урок 1.</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>20</td><td>Генераторы и итераторы. Урок 2.</td>
+    <td>20</td><td>Генераторы и итераторы. Урок 2.</td> <td><a href="">tap</a></td>
   </tr>
   
   <tr>
-    <td>21</td><td>Декораторы. Урок 1</td>
+    <td>21</td><td>Декораторы. Урок 1</td> <td><a href="">tap</a></td>
   </tr>
 
   <tr>
-    <td>22</td><td>Декораторы. Урок 2</td>
-  </tr>
-
-  <tr>
-    <td>23</td><td></td><td></td>
+    <td>22</td><td></td> <td><a href="">tap</a></td>
   </tr>
   
 </table>
