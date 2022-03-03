@@ -2,7 +2,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center">course-of-innopolis<br>Solving problems from the Innopolis course</td><td align="center">Курс Иннополиса<br>Решения задач из курса Иннополис</td>
+    <td align="center">Solving problems from the Innopolis course</td><td align="center">Решения задач из курса Иннополис</td>
   </tr>
   <tr>
     <td>Course dates: from 12/15/2021</td><td>Даты проведения курса: с 15.12.2021</td>
