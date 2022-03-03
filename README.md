@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <th >№</th><th>lesson</th><th>Урок</th>
+    <th >№</th><th>lessons</th><th>Уроки</th>
   </tr>
 
   <tr>
