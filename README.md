@@ -110,7 +110,7 @@
   </tr>
 
   <tr>
-    <td>22</td><td></td>
+    <td>22</td><td></td><td></td>
   </tr>
   
 </table>
