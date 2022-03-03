@@ -30,7 +30,7 @@
   </tr>
 
   <tr>
-    <td>2</td><td>Входное тестирование</td> <td><a href="">tap</a></td>
+    <td>2</td><td>Входное тестирование</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/input-testing">tap</a></td>
   </tr>
 
   <tr>
@@ -42,43 +42,43 @@
   </tr>
   
   <tr>
-    <td>5</td><td>Введение в Python</td> <td><a href="">tap</a></td>
+    <td>5</td><td>Введение в Python</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/introduction-to-Python">tap</a></td>
   </tr>
 
   <tr>
-    <td>6</td><td>Типы данных Python</td> <td><a href="">tap</a></td>
+    <td>6</td><td>Типы данных Python</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/python-data-types">tap</a></td>
   </tr>
 
   <tr>
-    <td>7</td><td>Переменные и условные</td> <td><a href="">tap</a></td>
+    <td>7</td><td>Переменные и условные</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/variables-and-conditionals">tap</a></td>
   </tr>
   
   <tr>
-    <td>8</td><td>Циклы</td> <td><a href="">tap</a></td>
+    <td>8</td><td>Циклы</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/cycles">tap</a></td>
   </tr>
   
   <tr>
-    <td>9</td><td>Строки и их методы</td> <td><a href="">tap</a></td>
+    <td>9</td><td>Строки и их методы</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/strings-and-methods">tap</a></td>
   </tr>
 
   <tr>
-    <td>10</td><td>Коллекции и их методы. Урок 1.</td> <td><a href="">tap</a></td>
+    <td>10</td><td>Коллекции и их методы. Урок 1.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/collections-and-methods-1">tap</a></td>
   </tr>
   
   <tr>
-    <td>11</td><td>Коллекции и их методы. Урок 2.</td> <td><a href="">tap</a></td>
+    <td>11</td><td>Коллекции и их методы. Урок 2.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/collections-and-methods-2">tap</a></td>
   </tr>
 
   <tr>
-    <td>12</td><td>Функции</td> <td><a href="">tap</a></td>
+    <td>12</td><td>Функции</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/functions">tap</a></td>
   </tr>
 
   <tr>
-    <td>13</td><td>Работа с файлами</td> <td><a href="">tap</a></td>
+    <td>13</td><td>Работа с файлами</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-files">tap</a></td>
   </tr>
   
   <tr>
-    <td>14</td><td>Основы ООП. Урок 1.</td> <td><a href="">tap</a></td>
+    <td>14</td><td>Основы ООП. Урок 1.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/basics-OOP-1">tap</a></td>
   </tr>
   
   <tr>
@@ -86,35 +86,35 @@
   </tr>
 
   <tr>
-    <td>16</td><td>Основы ООП. Урок 2.</td> <td><a href="">tap</a></td>
+    <td>16</td><td>Основы ООП. Урок 2.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/basics-OOP-2">tap</a></td>
   </tr>
 
   <tr>
-    <td>17</td><td>Промежуточная аттестация</td> <td><a href="">tap</a></td>
+    <td>17</td><td>Промежуточная аттестация</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/intermediate-certification-1">tap</a></td>
   </tr>
   
   <tr>
-    <td>18</td><td>Написание модулей</td> <td><a href="">tap</a></td>
+    <td>18</td><td>Написание модулей</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/writing-modules">tap</a></td>
   </tr>
   
   <tr>
-    <td>19</td><td>Генераторы и итераторы. Урок 1.</td> <td><a href="">tap</a></td>
+    <td>19</td><td>Генераторы и итераторы. Урок 1.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/generators-and-iterators-1">tap</a></td>
   </tr>
 
   <tr>
-    <td>20</td><td>Генераторы и итераторы. Урок 2.</td> <td><a href="">tap</a></td>
+    <td>20</td><td>Генераторы и итераторы. Урок 2.</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/generators-and-iterators-2">tap</a></td>
   </tr>
   
   <tr>
-    <td>21</td><td>Декораторы. Урок 1</td> <td><a href="">tap</a></td>
+    <td>21</td><td>Декораторы. Урок 1</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/decorators-1">tap</a></td>
   </tr>
 
   <tr>
-    <td>22</td><td>Декораторы. Урок 2</td> <td><a href="">tap</a></td>
+    <td>22</td><td>Декораторы. Урок 2</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/decorators-2">tap</a></td>
   </tr>
 
   <tr>
-    <td>23</td><td></td> <td><a href="">tap</a></td>
+    <td>23</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/">tap</a></td>
   </tr>
   
 </table>
