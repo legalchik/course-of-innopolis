@@ -22,7 +22,7 @@
 # Lessons
 <table>
   <tr>
-    <th>№</th><th>Уроки</th>
+    <th>№</th><th>Уроки</th><th>url</th>
   </tr>
 
   <tr>
