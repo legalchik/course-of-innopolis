@@ -29,11 +29,11 @@
   </tr>
 
   <tr>
-    <td>2</td><td> </td><td>Входное тестирование</td>
+    <td>2</td><td>Input Testing</td><td>Входное тестирование</td>
   </tr>
 
   <tr>
-    <td>3</td><td> </td><td>Узнай, как... bla bla</td>
+    <td>3</td><td>Find out how... Bla bla</td><td>Узнай, как... bla bla</td>
   </tr>
   
   <tr>
