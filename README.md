@@ -22,95 +22,95 @@
 # Lessons
 <table>
   <tr>
-    <th >№</th><th>lessons</th><th>Уроки</th>
+    <th>№</th><th>Уроки</th>
   </tr>
 
   <tr>
-    <td>1</td><td>Lesson 1</td><td>Урок 1</td>
+    <td>1</td><td>Урок 1</td>
   </tr>
 
   <tr>
-    <td>2</td><td>Input Testing</td><td>Входное тестирование</td>
+    <td>2</td><td>Входное тестирование</td>
   </tr>
 
   <tr>
-    <td>3</td><td>Find out how... Bla bla</td><td>Узнай, как... bla bla</td>
+    <td>3</td><td>Узнай, как... bla bla</td>
   </tr>
   
   <tr>
-    <td>4</td><td>Introductory lesson</td><td>Вводное занятие</td>
+    <td>4</td><td>Вводное занятие</td>
   </tr>
   
   <tr>
-    <td>5</td><td> </td><td>Введение в Python</td>
+    <td>5</td><td>Введение в Python</td>
   </tr>
 
   <tr>
-    <td>6</td><td> </td><td>Типы данных Python</td>
+    <td>6</td><td>Типы данных Python</td>
   </tr>
 
   <tr>
-    <td>7</td><td> </td><td>Переменные и условные</td>
+    <td>7</td><td>Переменные и условные</td>
   </tr>
   
   <tr>
-    <td>8</td><td> </td><td>Циклы</td>
+    <td>8</td><td>Циклы</td>
   </tr>
   
   <tr>
-    <td>9</td><td> </td><td>Строки и их методы</td>
+    <td>9</td><td>Строки и их методы</td>
   </tr>
 
   <tr>
-    <td>10</td><td> </td><td>Коллекции и их методы. Урок 1.</td>
+    <td>10</td><td>Коллекции и их методы. Урок 1.</td>
   </tr>
   
   <tr>
-    <td>11</td><td> </td><td>Коллекции и их методы. Урок 2.</td>
+    <td>11</td><td>Коллекции и их методы. Урок 2.</td>
   </tr>
 
   <tr>
-    <td>12</td><td> </td><td>Функции</td>
+    <td>12</td><td>Функции</td>
   </tr>
 
   <tr>
-    <td>13</td><td> </td><td>Работа с файлами</td>
+    <td>13</td><td>Работа с файлами</td>
   </tr>
   
   <tr>
-    <td>14</td><td> </td><td>Основы ООП. Урок 1.</td>
+    <td>14</td><td>Основы ООП. Урок 1.</td>
   </tr>
   
   <tr>
-    <td>15</td><td> </td><td>КОНКУРС - ВЫИГРАЙ ПРИЗ!</td>
+    <td>15</td><td>КОНКУРС - ВЫИГРАЙ ПРИЗ!</td>
   </tr>
 
   <tr>
-    <td>16</td><td> </td><td>Основы ООП. Урок 2.</td>
+    <td>16</td><td>Основы ООП. Урок 2.</td>
   </tr>
 
   <tr>
-    <td>17</td><td> </td><td>Промежуточная аттестация</td>
+    <td>17</td><td>Промежуточная аттестация</td>
   </tr>
   
   <tr>
-    <td>18</td><td> </td><td>Написание модулей</td>
+    <td>18</td><td>Написание модулей</td>
   </tr>
   
   <tr>
-    <td>19</td><td> </td><td>Генераторы и итераторы. Урок 1.</td>
+    <td>19</td><td>Генераторы и итераторы. Урок 1.</td>
   </tr>
 
   <tr>
-    <td>20</td><td> </td><td>Генераторы и итераторы. Урок 2.</td>
+    <td>20</td><td>Генераторы и итераторы. Урок 2.</td>
   </tr>
   
   <tr>
-    <td>21</td><td> </td><td>Декораторы. Урок 1</td>
+    <td>21</td><td>Декораторы. Урок 1</td>
   </tr>
 
   <tr>
-    <td>22</td><td> </td><td></td>
+    <td>22</td><td></td>
   </tr>
   
 </table>
