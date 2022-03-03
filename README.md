@@ -1,16 +1,23 @@
 <h1 align="center">course-of-innopolis</h1>
 
-<table bordercolor="red" border="2" width="100%">
+<table align="center" border="0">
   <tr>
-    <td>course-of-innopolis</td><td>Курс Иннополиса</td>
+    <td align="center">course-of-innopolis<br>Solving problems from the Innopolis course</td><td align="center">Курс Иннополиса<br>Решения задач из курса Иннополис</td>
   </tr>
   <tr>
-    <td>Solving problems from the Innopolis course</td><td>Решения задач из курса Иннополис</td>
+    <td>Course dates: from 12/15/2021</td><td>Даты проведения курса: с 15.12.2021</td>
   </tr>
-
+  <tr>
+    <td>Course start date: 12/24/2021</td><td>Дата начала курса: 24.12.2021</td>
+  </tr>
+  <tr>
+    <td>End date of the course: 06/01/2022</td><td>Дата окончания курса: 01.06.2022</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://learn.innopolis.university/Students/Trainings">Link to innopolis</a></td><td align="center"><a href="https://learn.innopolis.university/Students/Trainings">Cсылка на иннополис</a></td>
+  </tr>
 </table>
 
-<h6> https://learn.innopolis.university/Students/Trainings/ </h6>
 
 <table>
   <tr>
