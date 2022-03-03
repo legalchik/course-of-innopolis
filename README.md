@@ -110,7 +110,11 @@
   </tr>
 
   <tr>
-    <td>22</td><td></td> <td><a href="">tap</a></td>
+    <td>22</td><td>Декораторы. Урок 2</td> <td><a href="">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>23</td><td></td> <td><a href="">tap</a></td>
   </tr>
   
 </table>
