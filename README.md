@@ -37,7 +37,7 @@
   </tr>
   
   <tr>
-    <td>4</td><td> </td><td>Вводное занятие</td>
+    <td>4</td><td>Introductory lesson</td><td>Вводное занятие</td>
   </tr>
   
   <tr>
