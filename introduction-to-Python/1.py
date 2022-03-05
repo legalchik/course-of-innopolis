@@ -16,3 +16,4 @@ if num in [str(n) for n in range(1, 13)]:   # проверка что это ч�
 
 	elif num in [9, 10, 11]:
 		print('осень')
+		
