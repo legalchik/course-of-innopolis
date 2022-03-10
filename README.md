@@ -114,7 +114,15 @@
   </tr>
 
   <tr>
-    <td>23</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/">tap</a></td>
+    <td>23</td><td>Знакомство с PyQt</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/introduction-to-PyQt">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>24</td><td>Промежуточная аттестация</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/intermediate-certification-2">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>25</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/">tap</a></td>
   </tr>
   
 </table>
