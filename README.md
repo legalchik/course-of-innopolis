@@ -126,3 +126,15 @@
   </tr>
   
 </table>
+
+
+# Other
+<table>
+  <tr>
+    <th>№</th><th>Уроки</th><th>url</th>
+  </tr>
+
+  <tr>
+    <td>17</td><td>Введение в requests и BeautifulSoup</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/introduction-requests-and-BeautifulSoup">tap</a></td>
+  <tr>
+</table>
