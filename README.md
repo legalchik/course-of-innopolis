@@ -145,4 +145,8 @@
   <tr>
     <td>17</td><td>Введение в requests и BeautifulSoup</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/introduction-requests-and-BeautifulSoup">tap</a></td>
   <tr>
+
+  <tr>
+    <td>18</td><td>Углубленный анализ HTML кода</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/deep-HTML-code-analysis">tap</a></td>
+  <tr>
 </table>
