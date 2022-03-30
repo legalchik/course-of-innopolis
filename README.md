@@ -159,10 +159,29 @@
   </tr>
 
   <tr>
-    <td>17</td><td>Введение в requests и BeautifulSoup</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/introduction-requests-and-BeautifulSoup">tap</a></td>
+    <td>17</td><td>Парсеры. Введение в requests и BeautifulSoup</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/introduction-requests-and-BeautifulSoup">tap</a></td>
+  <tr>
+  <tr>
+    <td>17</td><td>2D-игры. Введение в библиотеку Arcade</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/introduction-to-arcade">tap</a></td>
   <tr>
 
   <tr>
-    <td>18</td><td>Углубленный анализ HTML кода</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/deep-HTML-code-analysis">tap</a></td>
+    <td>18</td><td>Парсеры. Углубленный анализ HTML кода</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/deep-HTML-code-analysis">tap</a></td>
   <tr>
+  <tr>
+    <td>18</td><td>2D-игры. Использование спрайтов и управление</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/using-sprites-and-controls">tap</a></td>
+  <tr>
+
+  <tr>
+    <td>19</td><td>2D-игры. Обработка коллизий</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/collision-handling">tap</a></td>
+  <tr>
+
+  <tr>
+    <td>20</td><td>2D-игры. Создание анимации из спрайтов</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/create-animation-from-sprites">tap</a></td>
+  <tr>
+
+  <tr>
+    <td>21</td><td>2D-игры. Физика в arcade</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/other/physics-in-arcade">tap</a></td>
+  <tr>
+
 </table>
