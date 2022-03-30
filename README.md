@@ -142,11 +142,11 @@
   </tr>
 
   <tr>
-    <td>30</td><td>Позиционирование компонентов</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/positioning-components"></a>tap</td>
+    <td>30</td><td>Позиционирование компонентов</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/positioning-components">tap</a></td>
   </tr>
 
   <tr>
-    <td>31</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/">tap</a></td>
+    <td>31</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/"></a>tap</td>
   </tr>
 
 </table>

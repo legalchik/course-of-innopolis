@@ -26,7 +26,12 @@ class MyWindow(QtWidgets.QWidget):
 
 
     def on_clicked(self):
-        print(self.line.text())
+        print(self.line.clearFocus())
+
+    def keyPressEvent(self, e):
+        print(e.text(), e.key())
+        if e.modifiers() & QtCore.Qt.KeyboardModifier.AltModifier and (e.key() == 67 or e.key() == 1057):
+            self.line.setFocus()
 
 
 if __name__ == '__main__':
