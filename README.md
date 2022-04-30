@@ -146,7 +146,19 @@
   </tr>
 
   <tr>
-    <td>31</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/"></a>tap</td>
+    <td>31</td><td>Основные компоненты</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/main-components-1">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>32</td><td>Основные компоненты</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/main-components-2">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>33</td><td>Основные компоненты</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/main-components-3">tap</a></td>
+  </tr>
+
+  <tr>
+    <td>34</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/"></a>tap</td>
   </tr>
 
 </table>
