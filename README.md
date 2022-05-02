@@ -150,7 +150,7 @@
   </tr>
 
   <tr>
-    <td>32</td><td>Основные компоненты</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/main-components-2">tap</a></td>
+    <td>32</td><td>Основные компоненты</td>
   </tr>
 
   <tr>
@@ -158,7 +158,31 @@
   </tr>
 
   <tr>
-    <td>34</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/"></a>tap</td>
+    <td>34</td><td>Работа с базами данных</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-databases-1"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>35</td><td>Работа с базами данных</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-databases-2"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>36</td><td>Работа с базами данных</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-databases-3"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>37</td><td>Работа с графикой</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-graphics-1"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>38</td><td>Работа с графикой</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/working-with-graphics-2"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>39</td><td>SDI и MDI приложения</td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/SDI-MDI-applications"></a>tap</td>
+  </tr>
+
+  <tr>
+    <td>40</td><td></td> <td><a href="https://github.com/legalchik/course-of-innopolis/tree/main/"></a>tap</td>
   </tr>
 
 </table>

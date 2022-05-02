@@ -1,50 +1,87 @@
-# from PyQt5 import Qt
- 
+import sys
+from PyQt5.QtWidgets import *
+from PyQt5.QtCore import *
+from math import sqrt
 
-# class W(Qt.QMainWindow):
-#     def __init__(self):
-#         Qt.QMainWindow.__init__(self)
-#         self.tab = Qt.QTabWidget()
-#         self.setCentralWidget(self.tab)
- 
-#         self.btnOpen = Qt.QPushButton('Open')
-#         self.btnOpen.clicked.connect(self.open)
-#         self.statusBar().addWidget(self.btnOpen)
+
+class Example(QMainWindow):
+    send = pyqtSignal(tuple)
+    def __init__(self):
+        super().__init__()
+        self.initUI()
         
-#         self.btnSave = Qt.QPushButton('Save')
-#         self.btnSave.clicked.connect(self.save)
-#         self.statusBar().addWidget(self.btnSave)
+    @pyqtSlot()
+    def initUI(self):
+        self.setWindowTitle("Пример")
+        self.setGeometry(888, 222, 475, 190)
+
+        self.line_edit11 = QLineEdit(self)
+        self.line_edit12 = QLineEdit(self)
+        self.line_edit13 = QLineEdit(self)
+        self.line_text1 = QTextBrowser(self)
+
+        self.line_edit11.setGeometry(0, 0, 150, 33)
+        self.line_edit12.setGeometry(0, 33, 150, 33)
+        self.line_edit13.setGeometry(0, 66, 150, 33)
+        self.line_text1.setGeometry(0, 132, 150, 55)
+
+        self.button1 = QPushButton('Треугольник', self)
+
+
+        self.line_edit21 = QLineEdit(self)
+        self.line_edit22 = QLineEdit(self)
+        self.line_text2 = QTextBrowser(self)
+
+        self.line_edit21.setGeometry(160, 33, 150, 33)
+        self.line_edit22.setGeometry(160, 66, 150, 33)
+        self.line_text2.setGeometry(160, 132, 150, 55)
+
+        self.button2 = QPushButton('Прямоугольник', self)
+
         
-#         self.btnClose = Qt.QPushButton('Close')
-#         self.btnClose.clicked.connect(self.close)
-#         self.statusBar().addWidget(self.btnClose)
+        self.line_edit31 = QLineEdit(self)
+        self.line_text3 = QTextBrowser(self)
 
-#     def open(self):
-#         fname = Qt.QFileDialog.getOpenFileName()[0]
-#         if not fname: return
-#         with open(fname) as f:
-#             txt = f.read()
-#         idx = self.tab.addTab(Qt.QTextEdit(),fname)
-#         self.tab.widget(idx).setPlainText(txt)
-#         self.tab.setCurrentIndex(idx)
+        self.line_edit31.setGeometry(320, 66, 150, 33)
+        self.line_text3.setGeometry(320, 132, 150, 55)
 
-#     def save(self):
-#         fname = Qt.QFileDialog.getSaveFileName()[0]
-#         if not fname: return
-#         txt = self.tab.currentWidget().toPlainText()
-#         with open(fname,'w') as f:
-#             f.write(txt)
-
-#     def close(self):
-#         idx = self.tab.currentIndex()
-#         wgt = self.tab.widget(idx)
-#         self.tab.removeTab(idx)
-#         del wgt
+        self.button3 = QPushButton('Квадрат', self)
 
 
-# if __name__=="__main__":
-#     app = Qt.QApplication([])
-#     t = W()
-#     t.resize(640,480)
-#     t.show()
-#     app.exec_()
+        self.button1.clicked.connect(self.btn1)
+        self.button1.setGeometry(0, 99, 150, 34)
+        
+        self.button2.clicked.connect(self.btn2)
+        self.button2.setGeometry(160, 99, 150, 34)
+
+        self.button3.clicked.connect(self.btn3)
+        self.button3.setGeometry(320, 99, 150, 34)
+
+        for el in (self.line_edit11, self.line_edit12, self.line_edit13, self.line_edit21, self.line_edit22, self.line_edit31):
+        	el.setText("2")
+
+
+    def btn1(self):
+        a, b, c = int(self.line_edit11.text()), int(self.line_edit12.text()), int(self.line_edit13.text())
+        p = a + b + c
+        s = sqrt(p*(p-a)*(p-b)*(p-c))
+        self.line_text1.setText(f"площадь: {s} периметр: {p}")
+
+    def btn2(self):
+        a, b = int(self.line_edit21.text()), int(self.line_edit22.text())
+        p = 2 * (a + b)
+        s = a * b
+        self.line_text2.setText(f"площадь: {s} периметр: {p}")
+
+    def btn3(self):
+        a = int(self.line_edit31.text())
+        p = 4 * a
+        s = a ** 2
+        self.line_text3.setText(f"площадь: {s} периметр: {p}")
+
+        
+if __name__ == '__main__':
+    application = QApplication(sys.argv)
+    window = Example()
+    window.show()
+    sys.exit(application.exec_())
