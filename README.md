@@ -202,9 +202,3 @@
   </tr>
 
 </table>
-
-<<<<<<< HEAD
-=======
-
-# Other
->>>>>>> cb3ae13d76dbd3b76d6f9aa88e2b1e0e49fd8686
